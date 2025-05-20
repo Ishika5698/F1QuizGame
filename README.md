@@ -12,11 +12,6 @@ Visual Effects: Green/red feedback, checkered flag animation on completion.
 Responsive Design: Play on desktop or mobile with a sleek, F1-inspired UI.
 Incorrect Answers: Review wrong answers at the end to improve your F1 knowledge.
 
-🎥 Demo
- 
-
-Play it live: https://ishika5698.github.io/F1QuizGame
-
 🛠️ Getting Started
 Prerequisites
 
@@ -34,9 +29,6 @@ Open the game:open index.html
 
 Choose a difficulty (Easy, Medium, Hard) and start racing through questions!
 
-Run Online
-
-Visit https://ishika5698.github.io/F1QuizGame to play instantly.
 
 📂 Project Structure
 F1QuizGame/
